@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lightswitch", "Lightswitch\Lightswitch.fsproj", "{50D7171F-36D2-495E-8DB3-6C402ECDA30F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lightswitch.Client", "Lightswitch.Client\Lightswitch.Client.fsproj", "{21660B7F-BE0F-4AA6-9A51-2C9866C0E7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D7171F-36D2-495E-8DB3-6C402ECDA30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D7171F-36D2-495E-8DB3-6C402ECDA30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D7171F-36D2-495E-8DB3-6C402ECDA30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D7171F-36D2-495E-8DB3-6C402ECDA30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21660B7F-BE0F-4AA6-9A51-2C9866C0E7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21660B7F-BE0F-4AA6-9A51-2C9866C0E7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21660B7F-BE0F-4AA6-9A51-2C9866C0E7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21660B7F-BE0F-4AA6-9A51-2C9866C0E7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
